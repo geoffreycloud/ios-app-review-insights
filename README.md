@@ -12,6 +12,7 @@ The goal of this project is to build a sentiment analysis model that classifies 
 - Features:
   - `review_text` (raw text input)
   - `rating` (1–5 scale)
+  - `date` datetime
 - Target transformation:
   - Ratings ≥ 4 → Positive (1)
   - Ratings ≤ 3 → Negative/Neutral (0)
