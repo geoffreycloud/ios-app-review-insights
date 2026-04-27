@@ -113,9 +113,9 @@ This reinforces the importance of fine-grained sentiment analysis.
 
 ## 📚 References
 
-- Guzman, E., Maalej, W. (2014). *How Do Users Like This Feature?* IEEE Intelligent Systems  
-- Haddi, E., Liu, X., Shi, Y. (2013). *The Role of Text Pre-processing in Sentiment Analysis*  
-- Pagano, D., Maalej, W. (2013). *User Feedback in the AppStore*  
+- [Guzman, E., Maalej, W. (2014). *How Do Users Like This Feature?* IEEE Intelligent Systems](https://ieeexplore.ieee.org/document/6912257)  
+- [Haddi, E., Liu, X., Shi, Y. (2013). *The Role of Text Pre-processing in Sentiment Analysis*](https://www.sciencedirect.com/science/article/pii/S1877050913001385)  
+- [Pagano, D., Maalej, W. (2013). *User Feedback in the AppStore*](https://ieeexplore.ieee.org/document/6636712)  
 
 ---
 
