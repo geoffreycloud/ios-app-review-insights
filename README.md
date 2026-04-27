@@ -77,7 +77,7 @@ The NLP pipeline found in [Sentiment_Analysis_FE](https://github.com/geoffreyclo
 
 ## Baseline Model
 
-A traditional sentiment classifier was implemented for comparison:
+A traditional sentiment classifier was implemented for comparison [Sentiment_Analysis.ipynb](https://github.com/geoffreycloud/ios-app-review-insights/blob/master/Sentiment_Analysis.ipynb):
 
 - **Model:** Logistic Regression  
 - **Features:** TF-IDF  
