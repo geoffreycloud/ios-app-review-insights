@@ -18,7 +18,7 @@ The dataset consists of **490 Strava app reviews** collected from the Apple App 
 Example API endpoint:
 https://itunes.apple.com/rss/customerreviews/page=1/id=426826309/sortBy=mostRecent/json
 
-The data was programmatically extracted using Python and stored locally as:
+The data was programmatically extracted using Python ([extract_reviews.py](https://github.com/geoffreycloud/ios-app-review-insights/blob/master/scripts/extract_reviews.py))and stored locally as:
 [data/strava_reviews.csv](https://github.com/geoffreycloud/ios-app-review-insights/blob/master/data/strava_reviews.csv)
 
 
@@ -26,7 +26,7 @@ The data was programmatically extracted using Python and stored locally as:
 
 ## Pipeline
 
-The NLP pipeline consists of the following stages:
+The NLP pipeline found in [Sentiment_Analysis_FE](https://github.com/geoffreycloud/ios-app-review-insights/blob/master/Sentiment_Analysis_FE.ipynb) consists of the following stages:
 
 1. **Text Preprocessing**
    - Lowercasing
